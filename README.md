@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f000x0
+- 👋 Hi, I’m Li Hu
 - 👀 I’m interested in Binary & LLM
 - 🌱 I’m currently learning Binary
 - 📫 How to reach me pdxbshx@mail.ustc.edu.cn
